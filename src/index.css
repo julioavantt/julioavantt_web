@@ -1,0 +1,25 @@
+:root {
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  --primary-color: #135bec;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  place-items: center;
+  max-width: 100%;
+  min-width: 320px;
+  min-height: 100vh;
+  background-color: #101622;
+}
+
+h4 {
+  margin: 0rem 0;
+}
