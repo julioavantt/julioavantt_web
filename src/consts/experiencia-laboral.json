@@ -1,0 +1,131 @@
+{
+  "edtech": [
+    {
+      "id": 1,
+      "techs": ["IA", "Python", "Data"],
+      "role": "Mentor en Fundamentos de IA",
+      "company": "Guayerd / Programa IBM SkillsBuild",
+      "date": "2025 - Actualidad"
+    },
+    {
+      "id": 2,
+      "techs": ["Javascript", "Git / Github", "Agile"],
+      "role": "Mentor Javascript",
+      "company": "Guayerd junto a BetaHub",
+      "date": "2025 - Actualidad"
+    },
+    {
+      "id": 3,
+      "techs": ["Javascript", "React", "HTML", "CSS"],
+      "role": "Profesor React, Javascript, Desarrollo Web",
+      "company": "Coderhouse",
+      "date": "2022 - Actualidad"
+    },
+    {
+      "id": 4,
+      "techs": ["HTML", "CSS"],
+      "role": "Mentor HTML y CSS",
+      "company": "Guayerd junto a BetaHub",
+      "date": "2025"
+    },
+    {
+      "id": 5,
+      "techs": ["Javascript", "Git / Github"],
+      "role": "Mentor Javascript",
+      "company": "Guayerd junto a BetaHub y Mercado Libre",
+      "date": "2024"
+    },
+    {
+      "id": 6,
+      "techs": ["Javascript", "Git / Github"],
+      "role": "Contenidista Javascript y Git / Github",
+      "company": "Guayerd junto a BetaHub y Mercado Libre",
+      "date": "2024"
+    },
+    {
+      "id": 7,
+      "techs": [
+        "Agile",
+        "CSS",
+        "HTML",
+        "Javascript",
+        "Git / Github",
+        "React",
+        "Nodejs"
+      ],
+      "role": "Mentor Full Stack",
+      "company": "Rolling Code",
+      "date": "2022 - 2023"
+    },
+    {
+      "id": 8,
+      "techs": ["Agile", "CSS", "HTML", "Javascript"],
+      "role": "Mentor Frontend",
+      "company": "Guayerd junto a BetaHub y Mercado Libre",
+      "date": "2022 - 2023"
+    },
+    {
+      "id": 9,
+      "techs": ["Agile", "CSS", "HTML", "Javascript"],
+      "role": "Contenidista proyecto final Frontend",
+      "company": "Guayerd junto a BetaHub y Mercado Libre",
+      "date": "2023"
+    },
+    {
+      "id": 10,
+      "techs": ["Agile", "CSS", "HTML", "Javascript"],
+      "role": "Mentor Frontend",
+      "company": "Guayerd junto a BetaHub y Mercado Libre",
+      "date": "2022 - 2023"
+    },
+    {
+      "id": 11,
+      "techs": ["React"],
+      "role": "Profesor React",
+      "company": "Guayerd",
+      "date": "2022"
+    },
+    {
+      "id": 12,
+      "techs": ["HTML", "CSS", "Javascript"],
+      "role": "Contenidista Frontend",
+      "company": "BlockAcademy",
+      "date": "2022"
+    },
+    {
+      "id": 13,
+      "techs": ["Git / Github"],
+      "role": "Profesor Git y Github",
+      "company": "Educacion IT",
+      "date": "2022"
+    },
+    {
+      "id": 14,
+      "techs": ["React", "Agile", "Git / Github"],
+      "role": "Mentor React, Ágile y Git / Github",
+      "company": "Alkemy",
+      "date": "2022"
+    },
+    {
+      "id": 15,
+      "techs": ["React", "Agile", "Git / Github"],
+      "role": "Host y contenidista video curso React Avanzado",
+      "company": "Alkemy",
+      "date": "2022"
+    },
+    {
+      "id": 16,
+      "techs": ["HTML", "CSS", "Javascript"],
+      "role": "Contenidista Frontend Carrera Certified Tech Developer",
+      "company": "Digital House junto a Mercado Libre y Globant",
+      "date": "2021"
+    },
+    {
+      "id": 17,
+      "techs": ["React"],
+      "role": "Contenidista React Carrera Certified Tech Developer",
+      "company": "Digital House junto a Mercado Libre y Globant",
+      "date": "2021"
+    }
+  ]
+}
