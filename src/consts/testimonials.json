@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Laila Robbiano",
+    "role": "Directora de educación. Lic. en Psicología y Educadora. 📚💻",
+    "recommendation": "Julio se destaca como mentor por su compromiso, no sólo con el aprendizaje de los/as estudiantes sino con su desarrollo profesional y personal. Inspira, motiva e impulsa a las personas que acompaña a confiar en sí mismas, a ser colaborativas y a soñar en grande. Es referente en su área de experiencia y es apasionado por compartir lo que sabe y dejar huella en sus estudiantes, quienes valoran su trabajo y su compromiso para con su aprendizaje y crecimiento. Su estilo de enseñanza es dinámico y muy divertido. Logra que las clases sean espacios de confianza y de desafíos constantes. ¡Dan ganas de ir a sus clases! Como contenidista, su objetivo es claro: Facilitar el aprendizaje. Se destaca por sus habilidades para convertir conceptos complejos en accesibles. Es muy responsable con la calidad de su trabajo. En lo personal, me entusiasma mucho trabajar con Julio, un gran compañero apasionado por hacer de este mundo, un mundo mejor: con educación de calidad y oportunidades para todos/as.",
+    "avatar": "laila.jpeg"
+  },
+  {
+    "name": "Camila Guerrero",
+    "role": "Técnico en programación e informática - Desarrollo web - Salesforce - Estudiante Full-Stack",
+    "recommendation": "Un gran profesor y comediante, siempre logra formar un ambiente ameno en las clases, sabe explicar los temas con claridad y llevar a todos a un mismo nivel.",
+    "avatar": "camila.jpeg"
+  },
+  {
+    "name": "Minerva Guanipa",
+    "role": "Front-end Developer in Progress",
+    "recommendation": "Hay dos clases de profesores: los que nos presionan tanto que no podemos ni movernos y los que nos dan un pequeño empujón para animarnos a volar. Me alegra decirle que usted es de los segundos. Una persona altamente calificada para enseñar, con una capacidad enorme de conocimientos, buen líder y mucha disposición para ayudar. Me emociona ser parte de su grupo de estudiantes.",
+    "avatar": "minerva.jpeg"
+  },
+  {
+    "name": "Ignacio Valerio",
+    "role": "Analista Funcional E-commerce Ssr",
+    "recommendation": "Gran Profesor y gran persona, siempre bien predispuesto a enseñar y ayudar a los demás. En cada clase demuestra sus sólidos conocimientos, explicando con dedicación a cada uno de sus alumnos. Una persona muy divertida, siempre aportando lo mejor de él para que nuestro aprendizaje sea excelente y eficiente, facilitándonos el crecer como personas y profesionales en el ámbito de la programación. Genio Julio!",
+    "avatar": "ignacio.jpeg"
+  },
+  {
+    "name": "Frank Fobello",
+    "role": "Analista Funcional IT en La Anónima | Jefatura de Aplicaciones para Frigoríficos",
+    "recommendation": "Conocí a Julio en Guayerd, dónde demostró sus amplios conocimientos en la programación, su capacidad en la docencia y sobre todo su disposición para ayudar siempre y buscar aportar no solo conocimiento técnico sino también consejos desde su vasta experiencia. Es una excelente persona con la cual tengo el gran gusto de trabajar.",
+    "avatar": "frank.jpeg"
+  },
+  {
+    "name": "Hovhannes Petrosyan",
+    "role": "Sr Software Engineer",
+    "recommendation": "La verdad puedo decir que soy afortunado de tener un colega en el mismo ámbito laboral como es Julio, es super apasionado, creativo, y disciplinado en todo lo que hace, un ejemplo para muchos. Desearían a cualquier desarrollador/compañía tener en su equipo alguien tan profesional y con tanta calidad humana como es Julio.",
+    "avatar": "hovhannes.jpeg"
+  },
+  {
+    "name": "Pablo Tachella",
+    "role": "Android & Web Developer",
+    "recommendation": "Impulsa a las personas de su entorno a alcanzar su máximo potencial. Muestra un genuino interés en el crecimiento del equipo. Es un gran líder y mentor.",
+    "avatar": "pablo.jpeg"
+  },
+  {
+    "name": "Harold Morera Camelo",
+    "role": "QA Automation Engineer",
+    "recommendation": "Gran conocimiento en React, siempre quería mejorar e innovar las aplicaciones, brindando agilidad y un excelente UX.",
+    "avatar": "harold.jpeg"
+  },
+  {
+    "name": "Esteban Benabarre",
+    "role": "Desarrollador de Software | React | React Native | NextJs | Node | Typescript | Dart | Flutter",
+    "recommendation": "Excelente profesional y gran persona. Me apoyó mucho en mi carrera de programador. Siempre está predispuesto a enseñar y a ayudar.",
+    "avatar": "esteban.jpeg"
+  },
+  {
+    "name": "Martin Otermin",
+    "role": "Software Developer",
+    "recommendation": "Excelente persona dentro y fuera del ámbito profesional. Didáctico a la hora de transmitir conceptos y gran capacidad para liderar equipos.",
+    "avatar": "martin.jpeg"
+  },
+  {
+    "name": "Mateo Primon",
+    "role": "Instructional Designer | Coordinador Pedagógico Clubes TED-Ed",
+    "recommendation": "Además de ser muy divertido, Julio es una persona super flexible y abierta a los desafíos. Su curva de aprendizaje en lo vinculado al desarrollo de contenido creció en tiempos récord y con una capacidad de adaptación admirable. Además tiene una mirada crítica sobre el aprendizaje y eso le permite entender mejor a los destinatarios de sus productos.",
+    "avatar": "mateo.jpeg"
+  }
+]

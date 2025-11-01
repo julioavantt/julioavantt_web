@@ -7,6 +7,7 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   --primary-color: #4a90e2;
+  box-sizing: border-box;
 }
 
 body {
