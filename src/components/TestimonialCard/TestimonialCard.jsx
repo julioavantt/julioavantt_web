@@ -1,6 +1,6 @@
-import styles from "./Card.module.css";
+import styles from "./TestimonialCard.module.css";
 
-export const Card = ({ item }) => {
+export const TestimonialCard = ({ item }) => {
   return (
     <section className={styles.card}>
       <div className={styles.header}>

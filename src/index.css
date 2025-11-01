@@ -8,10 +8,11 @@
   -moz-osx-font-smoothing: grayscale;
   --primary-color: #4a90e2;
   box-sizing: border-box;
+  padding: 0;
+  margin: 0;
 }
 
 body {
-  margin: 3rem;
   display: flex;
   justify-content: center;
   max-width: 100%;
@@ -24,6 +25,15 @@ h4 {
   margin: 0rem 0;
 }
 
+a {
+  text-decoration: none;
+  color: white;
+}
+
+.active {
+  color: white !important;
+}
+
 .material_symbols-outlined {
   font-variation-settings: "FILL" 0, "wght" 400, "GRAD" 0, "opsz" 24;
   font-size: 1rem;
@@ -31,6 +41,7 @@ h4 {
   padding: 0.3rem;
   border-radius: 50%;
 }
+
 .material-symbols-outlined {
   position: absolute;
   left: -33px;
