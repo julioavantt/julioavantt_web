@@ -1,34 +1,42 @@
 [
-    {
-        "title": "Curso PRETTIER como un PRO. Evitá problemas, configuralo y usalo en equipos.",
-        "url": "https://www.youtube.com/watch?v=J82zzv_2RPc"
-    },
-    {
-        "title": "Windsurf una opción gratis a Github Copilot para programar ...",
-        "url": "https://www.youtube.com/watch?v=51XByQSjr5U"
-    },
-    {
-        "title": "Generá datos falsos para arrays con Mockaroo. #fake #mock ...",
-        "url": "https://www.youtube.com/watch?v=39KqMx56s40"
-    },
-    {
-        "title": "A que no sabés ¿por qué pasa esto? #emoji #javascript #length",
-        "url": "https://www.youtube.com/watch?v=pR4oQolJLrk"
-    },
-    {
-        "title": "Instalar Visual Studio Code",
-        "url": "https://www.youtube.com/watch?v=jn3-Pusd_RY"
-    },
-    {
-        "title": "Instalación GitHub Copilot en VSCode",
-        "url": "https://www.youtube.com/watch?v=QOiVVishzMU"
-    },
-    {
-        "title": "Problemas de #Javascript con números grandes #js #numeros",
-        "url": "https://www.youtube.com/watch?v=7ZLKSk-rmDU"
-    },
-    {
-        "title": "Curso Biome JS | Prettier y Eslint todo en 1",
-        "url": "https://www.youtube.com/watch?v=ObInDSchTOM"
-    }
+  {
+    "title": "Curso PRETTIER PRO",
+    "url": "https://www.youtube.com/watch?v=J82zzv_2RPc",
+    "img": "prettier.png"
+  },
+  {
+    "title": "Windsurf IDE con IA free",
+    "url": "https://www.youtube.com/watch?v=51XByQSjr5U",
+    "img": "windsurf.png"
+  },
+  {
+    "title": "Numpy para Data Science",
+    "url": "https://www.youtube.com/watch?v=Gbu-4RRgkPU&t=2s",
+    "img": "numpy.png"
+  },
+  {
+    "title": "Curso Jupyter Notebook",
+    "url": "https://www.youtube.com/watch?v=zhA-gcXSmjY&t=128s",
+    "img": "jupyter.png"
+  },
+  {
+    "title": "Jupyter y Python en VSCode",
+    "url": "https://www.youtube.com/watch?v=d1fwp8YZ2gQ&t=6s",
+    "img": "instalar-jupyter.png"
+  },
+  {
+    "title": "Primeros pasos con Github Copilot",
+    "url": "https://www.youtube.com/watch?v=QOiVVishzMU",
+    "img": "copilot.png"
+  },
+  {
+    "title": "Curso Biome JS",
+    "url": "https://www.youtube.com/watch?v=ObInDSchTOM",
+    "img": "biome.png"
+  },
+  {
+    "title": "Google Stitch AI",
+    "url": "https://www.youtube.com/watch?v=RwHD6bWI0fw&t=15s",
+    "img": "stitch.png"
+  }
 ]
