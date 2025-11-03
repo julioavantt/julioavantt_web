@@ -5,7 +5,7 @@ import styles from "./NavBar.module.css";
 export const Navbar = () => (
   <nav className={styles.navbar}>
     <NavLink to="/" className={styles.brand}>
-      <img src="/assets/img/avatar.png" alt="Avatar" />
+      <img src={`/assets/img/avatar.png`} alt="Avatar" />
       <span>Julio Avantt!</span>
     </NavLink>
     <ul className={styles.list}>
