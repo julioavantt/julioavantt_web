@@ -22,17 +22,21 @@ export const Home = () => (
         </a>
         <a href="https://www.linkedin.com/in/julio-avantt/" target="_blank">
           <button className={styles.linkedin}>
-            <span class="material-symbols-outlined">link</span> Visitá mi
+            <span className="material-symbols-outlined">link</span> Visitá mi
             Linkedin
           </button>
         </a>
       </div>
     </div>
     <div className={styles.profile_img_wrapper}>
-      <picture>
+      {/* <picture>
         <source srcset="/img/profile.avif" type="image/avif" />
         <img src="/img/profile.jpeg" alt="Julio Avantt!" loading="lazy" />
-      </picture>
+      </picture> */}
+      <video autoPlay muted loop playsInline>
+        <source src="/videos/profile.mp4" type="video/mp4" />
+        Tu navegador no soporta video HTML5.
+      </video>
     </div>
   </div>
 );

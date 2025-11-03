@@ -71,7 +71,8 @@
   flex: 1;
   margin: 1.8rem 0 0;
 
-  img {
+  img,
+  video {
     width: 380px;
     object-fit: cover;
     background: linear-gradient(
