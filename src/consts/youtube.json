@@ -2,41 +2,41 @@
   {
     "title": "Curso PRETTIER PRO",
     "url": "https://www.youtube.com/watch?v=J82zzv_2RPc",
-    "img": "prettier.png"
+    "img": "prettier"
   },
   {
     "title": "Windsurf IDE con IA free",
     "url": "https://www.youtube.com/watch?v=51XByQSjr5U",
-    "img": "windsurf.png"
+    "img": "windsurf"
   },
   {
     "title": "Numpy para Data Science",
     "url": "https://www.youtube.com/watch?v=Gbu-4RRgkPU&t=2s",
-    "img": "numpy.png"
+    "img": "numpy"
   },
   {
     "title": "Curso Jupyter Notebook",
     "url": "https://www.youtube.com/watch?v=zhA-gcXSmjY&t=128s",
-    "img": "jupyter.png"
+    "img": "jupyter"
   },
   {
     "title": "Jupyter y Python en VSCode",
     "url": "https://www.youtube.com/watch?v=d1fwp8YZ2gQ&t=6s",
-    "img": "instalar-jupyter.png"
+    "img": "instalar-jupyter"
   },
   {
     "title": "Primeros pasos con Github Copilot",
     "url": "https://www.youtube.com/watch?v=QOiVVishzMU",
-    "img": "copilot.png"
+    "img": "copilot"
   },
   {
     "title": "Curso Biome JS",
     "url": "https://www.youtube.com/watch?v=ObInDSchTOM",
-    "img": "biome.png"
+    "img": "biome"
   },
   {
     "title": "Google Stitch AI",
     "url": "https://www.youtube.com/watch?v=RwHD6bWI0fw&t=15s",
-    "img": "stitch.png"
+    "img": "stitch"
   }
 ]
