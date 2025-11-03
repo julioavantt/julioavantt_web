@@ -6,7 +6,7 @@ export const TestimonialCard = ({ item }) => {
       <div className={styles.header}>
         <div className={styles.avatar_wrapper}>
           <img
-            src={`/assets/img/testimonials/${item.avatar}`}
+            src={`/img/testimonials/${item.avatar}`}
             alt={item.name}
             className={styles.avatar}
           />

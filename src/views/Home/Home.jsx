@@ -29,7 +29,7 @@ export const Home = () => (
       </div>
     </div>
     <div className={styles.profile_img_wrapper}>
-      <img src="/assets/img/profile.jpeg" alt="Julio Avantt!" />
+      <img src="/img/profile.jpeg" alt="Julio Avantt!" />
     </div>
   </div>
 );
