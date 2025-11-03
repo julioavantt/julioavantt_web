@@ -1,25 +1,11 @@
 .block {
-  background: linear-gradient(
-    to bottom right,
-    rgba(17, 25, 43, 0.4),
-    rgba(138, 138, 150, 0.1),
-    rgba(45, 45, 58, 0.1)
-  );
+  background: linear-gradient(to bottom right,
+      rgba(17, 25, 43, 0.4),
+      rgba(138, 138, 150, 0.1),
+      rgba(45, 45, 58, 0.1));
   padding: 1.5rem 2.2rem 1rem;
   border-radius: 1.5rem;
   color: white;
-}
-
-h3 {
-  font-family: "Space Grotesk", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 900;
-  font-style: normal;
-  font-size: 2.4rem;
-  margin: 0.2rem 0 1.2rem;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
 }
 
 p {
@@ -35,7 +21,7 @@ p {
 .pill {
   background-color: #232f48;
   color: var(--primary-color);
-  padding: 0.5rem 1rem 0.4rem;
+  padding: 0.5rem 1rem 1.6rem;
   border-radius: 1.2rem;
   font-size: 0.85rem;
   margin-right: 0.7rem;
@@ -100,4 +86,15 @@ p {
 .date {
   font-size: 0.9rem;
   color: rgba(255, 255, 255, 0.6);
+}
+
+@media screen and (max-width: 1200px) {
+  h3 {
+    flex-direction: column;
+    gap: 1.1rem;
+  }
+
+  .pills {
+    display: none;
+  }
 }

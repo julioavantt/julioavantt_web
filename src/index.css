@@ -23,6 +23,12 @@
   justify-content: left;
 }
 
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
 :root {
   font-family: "Space Grotesk", sans-serif;
   font-optical-sizing: auto;
@@ -31,10 +37,7 @@
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  --primary-color: #4a90e2;
-  box-sizing: border-box;
-  padding: 0;
-  margin: 0;
+  --primary-color: #4a90e2
 }
 
 #root {
@@ -77,6 +80,18 @@ a {
   color: white !important;
 }
 
+h3 {
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+  font-size: 2.4rem;
+  margin: 0.2rem 0 1.2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
 .material_symbols-outlined {
   font-variation-settings: "FILL" 0, "wght" 400, "GRAD" 0, "opsz" 24;
   font-size: 1rem;
@@ -93,4 +108,38 @@ a {
   background-color: #232f48;
   padding: 0.3rem;
   border-radius: 50%;
+}
+
+@media screen and (max-width: 1450px) {
+  main {
+    width: 1000px;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  main {
+    width: 700px;
+  }
+
+  h3 {
+    font-size: 2rem;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  body {
+    padding: 0 1rem;
+  }
+
+  main {
+    width: 90%;
+  }
+}
+
+@media screen and (max-width: 850px) {
+  #home.flex-row {
+    flex-direction: column-reverse;
+    gap: 1rem;
+
+  }
 }

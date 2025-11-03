@@ -23,4 +23,29 @@
   width: 100%;
   height: 180px;
   object-fit: cover;
+  transition: transform 0.2s ease-in-out;
+
+  &:hover {
+    transform: scale(1.035);
+  }
+}
+
+@media screen and (max-width: 1450px) {
+  .card {
+    width: 30.85%;
+  }
+
+  .img {
+    height: 155px;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  .card {
+    width: 47.1%;
+  }
+
+  .img {
+    height: 175px;
+  }
 }

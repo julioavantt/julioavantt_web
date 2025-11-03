@@ -18,6 +18,9 @@ export const Navbar = () => (
       <li>
         <NavLink to="/content-creator">Creador de Contenido</NavLink>
       </li>
+      <li className={styles.return_home}>
+        <NavLink to="/">Volver a Home</NavLink>
+      </li>
     </ul>
   </nav>
 );

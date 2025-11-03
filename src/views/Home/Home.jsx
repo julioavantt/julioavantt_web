@@ -1,3 +1,5 @@
+import { NavLink } from "react-router-dom";
+
 import { Block } from "../../components/Block";
 import styles from "./Home.module.css";
 
@@ -14,6 +16,8 @@ export const Home = () => (
         </p>
       </Block>
       <div className={styles.buttons}>
+        <NavLink to="/laboral-experience"><button className={styles.menu_mini}>Experiencia Laboral</button></NavLink>
+        <NavLink to="/content-creator"><button className={styles.menu_mini}>Creador de Contenido</button></NavLink>
         <a href="https://www.youtube.com/@juniorpride" target="_blank">
           <button>
             <span className="material-symbols-outlined">play_circle</span>{" "}
@@ -38,5 +42,5 @@ export const Home = () => (
         Tu navegador no soporta video HTML5.
       </video>
     </div>
-  </div>
+  </div >
 );
