@@ -29,7 +29,10 @@ export const Home = () => (
       </div>
     </div>
     <div className={styles.profile_img_wrapper}>
-      <img src="/img/profile.jpeg" alt="Julio Avantt!" />
+      <picture>
+        <source srcset="/img/profile.avif" type="image/avif" />
+        <img src="/img/profile.jpeg" alt="Julio Avantt!" loading="lazy" />
+      </picture>
     </div>
   </div>
 );
