@@ -1,8 +1,10 @@
 .block {
-  background: linear-gradient(to bottom right,
-      rgba(17, 25, 43, 0.4),
-      rgba(138, 138, 150, 0.1),
-      rgba(45, 45, 58, 0.1));
+  background: linear-gradient(
+    to bottom right,
+    rgba(17, 25, 43, 0.4),
+    rgba(138, 138, 150, 0.1),
+    rgba(45, 45, 58, 0.1)
+  );
   padding: 1.5rem 2.2rem 1rem;
   border-radius: 1.5rem;
   color: white;
