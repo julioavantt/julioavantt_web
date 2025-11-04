@@ -140,6 +140,13 @@ h3 {
   #home.flex-row {
     flex-direction: column-reverse;
     gap: 1rem;
+  }
 
+  li:has(.active) {
+    display: none !important;
+  }
+
+  h3 {
+    font-size: 1.25rem;
   }
 }
