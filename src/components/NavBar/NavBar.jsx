@@ -18,6 +18,15 @@ export const Navbar = () => (
       <li>
         <NavLink to="/content-creator">Creador de Contenido</NavLink>
       </li>
+      <li>
+        <a href="cv_julio_avantt.pdf"
+          download="CV_JulioAvantt_TechEducator.pdf"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="cv-download-btn"
+          aria-label="Descargar CV de Julio Avantt en PDF (abre en nueva pestaña)"
+        >CV</a>
+      </li>
       <li className={styles.return_home}>
         <NavLink to="/">Volver a Home</NavLink>
       </li>
