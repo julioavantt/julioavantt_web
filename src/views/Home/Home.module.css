@@ -9,6 +9,7 @@
 
   section {
     padding: 3.5rem 3.5rem 2.9rem;
+    margin-bottom: 0;
   }
 
   h1 {
@@ -21,7 +22,7 @@
   h2 {
     font-size: 1.1rem;
     font-weight: bold;
-    margin: 1.2rem 0 42px;
+    margin: 1.2rem 0 25px;
     color: var(--primary-color);
   }
 
@@ -33,6 +34,7 @@
 
   .buttons {
     display: flex;
+          margin-top: 1.5rem;
   }
 
   button {
@@ -52,7 +54,25 @@
       position: absolute;
       left: 26px;
       top: 17px;
+    } 
+  }  
+  .udemy {
+    display: flex;
+    justify-content: space-between;
+    gap: 2rem;
+    img {
+      width: 350px;
     }
+    h3 {    
+      font-size: 1.3rem;
+      font-weight: bold;
+      margin: 0 0 0.5rem;
+      color: white;
+    }
+    h4 span {
+      color: var(--primary-color);
+    }
+    p{line-height: 1.7;}
   }
 }
 
@@ -62,12 +82,10 @@
 
 .linkedin {
   width: 143px !important;
-  background: linear-gradient(
-    to bottom right,
-    rgba(17, 25, 43, 0.4),
-    rgba(138, 138, 150, 0.1),
-    rgba(45, 45, 58, 0.1)
-  ) !important;
+  background: linear-gradient(to bottom right,
+      rgba(17, 25, 43, 0.4),
+      rgba(138, 138, 150, 0.1),
+      rgba(45, 45, 58, 0.1)) !important;
 }
 
 .profile_img_wrapper {
@@ -80,16 +98,15 @@
   video {
     width: 380px;
     object-fit: cover;
-    background: linear-gradient(
-      to bottom right,
-      rgba(17, 25, 43, 0.4),
-      rgba(138, 138, 150, 0.1),
-      rgba(45, 45, 58, 0.1)
-    );
+    background: linear-gradient(to bottom right,
+        rgba(17, 25, 43, 0.4),
+        rgba(138, 138, 150, 0.1),
+        rgba(45, 45, 58, 0.1));
     padding: 0.5rem;
     border-radius: 1.5rem;
     box-shadow: 0 2px 2px rgba(0, 0, 0, 0.2);
     border: 1px solid rgba(255, 255, 255, 0.05);
+    height: 421px;
   }
 }
 
